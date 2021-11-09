@@ -1,0 +1,10 @@
+Version 1.5:
+Correccion de errores y mejora en manejo de memoria
+
+Version 1.6:
+Mejora de tratamiento de cadenas vacias
+
+Version 1.7:
+Correccion de errores a la hora de ingresar un nuevo proveedor
+Redisenio total de los diferentes menus
+Mejora en el manejo de introduccion de datos especificos
